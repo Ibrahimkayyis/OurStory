@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OurStory</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!</string>
+    <string name="title_signup_page">Yuk Daftar Dulu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Login Dulu Ya</string>
+    <string name="title_login_page">Bagikan Ceritamu Kepada Dunia</string>
+    <string name="name">Nama</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="preview_image">preview gambar</string>
+    <string name="choose_from_gallery">Galeri</string>
+    <string name="open_camera">Kamera</string>
+    <string name="description">Tulis Deskripsi</string>
+    <string name="upload_story">Upload Cerita</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="english">Inggris</string>
+    <string name="register_prompt">Belum Punya Akun ? Daftar Dulu</string>
+    <string name="story_name">Nama User</string>
+    <string name="story_description_goes_here">Deskripsi Cerita</string>
+    <string name="story_image">Gambar Cerita</string>
+    <string name="username">Nama User</string>
+    <string name="story_description">Deskripsi Cerita</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

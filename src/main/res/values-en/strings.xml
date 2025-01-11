@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OurStory</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Let\'s Sign Up First</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Log In First</string>
+    <string name="title_login_page">Share Your Story with the World</string>
+    <string name="name">Name</string>
+    <string name="greeting">Hello %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="preview_image">Image preview</string>
+    <string name="choose_from_gallery">Gallery</string>
+    <string name="open_camera">Camera</string>
+    <string name="description">Write Description</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="select_language">Select Language</string>
+    <string name="bahasa_indonesia">Indonesian</string>
+    <string name="english">English</string>
+    <string name="register_prompt">Don\'t Have Account ? Sign Up First</string>
+    <string name="story_name">User Name</string>
+    <string name="story_description_goes_here">Story Description</string>
+    <string name="story_image">Story Image</string>
+    <string name="username">Username</string>
+    <string name="story_description">Story Description</string>
+</resources>

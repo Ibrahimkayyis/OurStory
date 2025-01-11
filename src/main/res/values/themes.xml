@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LoginWithAnimation" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- Primary color -->
+        <item name="colorSecondary">@color/colorSecondary</item> <!-- Secondary color -->
+        <item name="android:textColor">@color/textColor</item> <!-- Text color -->
+        <item name="colorOnPrimary">@color/buttonTextColor</item> <!-- Button text color -->
+    </style>
+
+    <style name="Theme.LoginWithAnimation" parent="Base.Theme.LoginWithAnimation" />
+</resources>
