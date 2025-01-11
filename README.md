@@ -66,8 +66,8 @@
 - **Interactive Map**:  
   Explore a map that highlights the locations of user stories, allowing you to connect and discover new perspectives.
 
-- **Community Engagement**:  
-  Like and comment on other users' stories to engage and inspire within the community.
+- **Real-Time Updates**:  
+  Stay updated with the latest stories from around the globe, right at your fingertips..
 
 - **User-Friendly Interface**:  
   A clean, intuitive design for an enjoyable storytelling experience.
